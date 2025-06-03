@@ -1,0 +1,17 @@
+# Arquivos temporários do Blender
+*.blend1
+*.blend2
+*.blend@
+*.blend.bak
+*.blend.backup
+
+# Cache de renderização e outros arquivos temporários
+/cache/
+*.pyc
+__pycache__/
+*.bak
+*.log
+
+# Pastas de saída de renderização (ajuste conforme necessário)
+/render/
+/output/
